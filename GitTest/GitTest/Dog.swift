@@ -10,4 +10,8 @@ import UIKit
 
 class Dog: NSObject {
 
+    
+    override func layoutSublayersOfLayer(layer: CALayer) {
+    
+    }
 }
